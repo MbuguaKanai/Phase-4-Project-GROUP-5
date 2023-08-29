@@ -58,6 +58,40 @@ Exploring the data to get a glimpse of:
 * Missing values
 * The duplicates
 
+## Data Description Report
+
+After merging the 4 datasets, the data had 285,672 rows and 11 columns.The rows reduced to 233,213 after dropping rows that contaiend null values. The dataset consists of three main data types; float, integer, and object. The datatypses are well suited for the data they represent.
+
+There are no duplicated rows in this dataset.
+
+We did a ststistical summary on ratings as it is the only feature that would give meanigful insights. These are our conclusin based on the statistical summary... That the mean rating for the movies is 3.97
+
+* The spread around the mean rating for the movies is 0.96.
+* The least rating that a movie was given by a user is 0.5
+* The highest rating given for moview was 5.
+* 25% of the ratings were below 3.5
+* Half of the ratings were below 4.
+
+Summary of Features in the Dataset
+
+* UserIdrater: Represents the user ID of the rater.
+
+* MovieId: Represents the ID of the movie being rated.
+
+* Rating: Represents the rating given by the user to the movie.
+
+* Timestamprater: Represents the timestamp of when the rating was given.
+
+* Title: Represents the title of the movie.
+
+* Genres: Represents the genres associated with the movie.
+
+* UserIdtag: Represents the user ID of the tagger.
+
+* Tag: Represents the tag associated with the movie.
+
+* Timestamptag: Represents the timestamp of when the tag was assigned
+
 ![image](https://github.com/AkelleWaguma/Project_Phase4_RecommendationSystems_Group5/assets/134859044/cc729be4-272c-4bda-a885-d617ddf063b4)
 
 ## Conclusions
