@@ -16,19 +16,19 @@ This visionary initiative aims to provide tailored product suggestions that reso
 
 Through Univariate EDA, we meticulously dissect data, uncovering hidden patterns and trends that will underpin our personalized recommendation engine. Algorithm Development Our team of skilled data scientists crafts advanced algorithms, including collaborative filtering and matrix factorization, to generate accurate and relevant suggestions.
 
-Modelling We deploy a combination of models to ensure the highest quality of personalized suggestions for users. Here's an overview of the models utilized.
+**Modelling** - We deploy a combination of models to ensure the highest quality of personalized suggestions for users. Here's an overview of the models utilized.
 
-1. Baseline Model: K-Nearest Neighbors (KNN) Our modeling journey starts with a strong foundation—the K-Nearest Neighbors (KNN) baseline model. This model forms the bedrock of our recommendations by identifying similarities between users or items.
+1. **Baseline Model**: K-Nearest Neighbors (KNN) Our modeling journey starts with a strong foundation—the K-Nearest Neighbors (KNN) baseline model. This model forms the bedrock of our recommendations by identifying similarities between users or items.
 
-2. KNNWithMeans Building on the KNN baseline, we introduce KNNWithMeans, a variant that factors in user and item means. This approach compensates for potential rating biases, ensuring more balanced recommendations.
+2. **KNNWithMeans Building on the KNN baseline**, we introduce KNNWithMeans, a variant that factors in user and item means. This approach compensates for potential rating biases, ensuring more balanced recommendations.
 
-3. KNNBasic KNNBasic is a simplified yet effective version of the KNN algorithm. It prioritizes simplicity and computational efficiency, making it an optimal choice for scenarios where rapid recommendations are essential.
+3. **KNNBasic** KNNBasic is a simplified yet effective version of the KNN algorithm. It prioritizes simplicity and computational efficiency, making it an optimal choice for scenarios where rapid recommendations are essential.
 
-4. Singular Value Decomposition (SVD) One of the pillars of our modeling arsenal is Singular Value Decomposition (SVD). This powerful technique decomposes the user-item interaction matrix into latent factors.
+4. **Singular Value Decomposition (SVD)** One of the pillars of our modeling arsenal is Singular Value Decomposition (SVD). This powerful technique decomposes the user-item interaction matrix into latent factors.
 
 Model Training Rigorous training and fine-tuning ensure that our Recommender System evolves, adapting to changing user behaviors and preferences. Performance Evaluation: Through thorough testing and validation, we ensure that our system consistently delivers high-quality recommendations.
 
-Hybrid Approach We synergize multiple recommendation strategies, combining content-based and collaborative filtering methods to provide comprehensive suggestions.
+**Hybrid Approach** We synergize multiple recommendation strategies, combining content-based and collaborative filtering methods to provide comprehensive suggestions.
 
 We deployed the model using the validation dataset and obtained an RMSE of 1.16.
 
