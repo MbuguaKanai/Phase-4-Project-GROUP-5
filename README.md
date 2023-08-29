@@ -20,7 +20,7 @@ Through Univariate EDA, we meticulously dissect data, uncovering hidden patterns
 
 1. **Baseline Model**: K-Nearest Neighbors (KNN) Our modeling journey starts with a strong foundation—the K-Nearest Neighbors (KNN) baseline model. This model forms the bedrock of our recommendations by identifying similarities between users or items.
 
-2. **KNNWithMeans Building on the KNN baseline**, we introduce KNNWithMeans, a variant that factors in user and item means. This approach compensates for potential rating biases, ensuring more balanced recommendations.
+2. **KNNWithMeans** Building on the KNN baseline, we introduce KNNWithMeans, a variant that factors in user and item means. This approach compensates for potential rating biases, ensuring more balanced recommendations.
 
 3. **KNNBasic** KNNBasic is a simplified yet effective version of the KNN algorithm. It prioritizes simplicity and computational efficiency, making it an optimal choice for scenarios where rapid recommendations are essential.
 
