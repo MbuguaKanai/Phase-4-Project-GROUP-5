@@ -10,7 +10,11 @@
 
 ## Executive Summary
 
-In a rapidly evolving digital landscape, customer expectations for personalized interactions have surged.In response to the challenge of assisting our customers in efficiently navigating our diverse product catalog, we are embarking on a transformative journey to implement a state-of-the-art recommendation system. This visionary initiative aims to provide tailored product suggestions that resonate with individual preferences and interests. The projects entails; Data Analysis -Explorative Data Analysis (EDA): Our journey commences with Exploratory Data Analysis (EDA), a crucial step in deciphering user behaviors. Through Univariate EDA, we meticulously dissect data, uncovering hidden patterns and trends that will underpin our personalized recommendation engine. Algorithm Development Our team of skilled data scientists crafts advanced algorithms, including collaborative filtering and matrix factorization, to generate accurate and relevant suggestions.
+In a rapidly evolving digital landscape, customer expectations for personalized interactions have surged.In response to the challenge of assisting our customers in efficiently navigating our diverse product catalog, we are embarking on a transformative journey to implement a state-of-the-art recommendation system. 
+
+This visionary initiative aims to provide tailored product suggestions that resonate with individual preferences and interests. The projects entails; Data Analysis -Explorative Data Analysis (EDA): Our journey commences with Exploratory Data Analysis (EDA), a crucial step in deciphering user behaviors. 
+
+Through Univariate EDA, we meticulously dissect data, uncovering hidden patterns and trends that will underpin our personalized recommendation engine. Algorithm Development Our team of skilled data scientists crafts advanced algorithms, including collaborative filtering and matrix factorization, to generate accurate and relevant suggestions.
 
 Modelling We deploy a combination of models to ensure the highest quality of personalized suggestions for users. Here's an overview of the models utilized.
 
