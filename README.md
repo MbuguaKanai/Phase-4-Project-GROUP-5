@@ -83,7 +83,7 @@ In summary, our iterative journey provided insights into recommendation systems,
 
 ## Way Forward
 
-1. Enhance the recommendation system by implementing comprehensive model selection.
-2. Optimize the Hybrid model.
-3. Continuous monitoring and training of the model
+*-Enhance the recommendation system by implementing comprehensive model selection.
+*-Optimize the Hybrid model.
+*-Continuous monitoring and training of the model
 
