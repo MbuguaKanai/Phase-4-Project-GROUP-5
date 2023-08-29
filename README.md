@@ -60,7 +60,6 @@ The duplicates
 
 ![image](https://github.com/AkelleWaguma/Project_Phase4_RecommendationSystems_Group5/assets/134859044/cc729be4-272c-4bda-a885-d617ddf063b4)
 
-## Predicted ratings using the collaborative filtering component based on SVD
 
 ## Conclusions
 
