@@ -37,13 +37,13 @@ We deployed the model using the validation dataset and obtained an RMSE of 1.16.
 Our customers often face difficulty in navigating our extensive product catalog to find items that match their preferences. To overcome this challenge, we aim to implement a recommendation system that provides tailored product suggestions that align with individual preferences and interests. The goal is to increase user engagement, improve conversion rates, boost customer satisfaction and drive revenue growth and bolster our market position.
 
 ## Project Objectives
-1. To increase Engagement - by suggesting products that resonate with customers' past behaviors, such as browsing history, purchases, and interactions.
+* To increase Engagement - by suggesting products that resonate with customers' past behaviors, such as browsing history, purchases, and interactions.
 
-2. To Enhance Conversion Rates - by delivering recommendations that are more likely to lead to purchases, thereby driving revenue growth.
+* To Enhance Conversion Rates - by delivering recommendations that are more likely to lead to purchases, thereby driving revenue growth.
 
-3. To enhance Customer Satisfaction - by reducing the time and effort required for customers to find products of interest.
+* To enhance Customer Satisfaction - by reducing the time and effort required for customers to find products of interest.
 
-4. To differentiate our platform by providing an innovative and user-centric feature.
+* To differentiate our platform by providing an innovative and user-centric feature.
    
 ## Data Understanding
 
