@@ -92,7 +92,7 @@ Summary of Features in the Dataset
 
 * Timestamptag: Represents the timestamp of when the tag was assigned
 
-![image](https://github.com/AkelleWaguma/Project_Phase4_RecommendationSystems_Group5/assets/134859044/cc729be4-272c-4bda-a885-d617ddf063b4)
+![image](https://github.com/MbuguaKanai/Phase-4-Project-GROUP-5/assets/128227310/4fd444e7-51b2-4784-8b8f-f45a3bf471b0)
 
 ## Conclusions
 
