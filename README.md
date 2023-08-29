@@ -1,6 +1,7 @@
 ## RECOMMENDATION SYSTEMS
 
 ### Project Phase 4
+![image](https://github.com/MbuguaKanai/Phase-4-Project-GROUP-5/assets/128227310/bf38a9e6-f776-4e44-8a8b-61461e1c6db2)
 
 1. Student name: GROUP 5
 2. Student pace: Part Time
