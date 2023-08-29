@@ -51,12 +51,12 @@ Group 5 team used the “MovieLens” database, developed by the GroupLens resea
 
 Exploring the data to get a glimpse of:
 
-1. Shape of the data
-2. The column names
-3. The data types
-4. Statistical summary of the data
-5. Missing values
-6. The duplicates
+* Shape of the data
+* The column names
+* The data types
+* Statistical summary of the data
+* Missing values
+* The duplicates
 
 ![image](https://github.com/AkelleWaguma/Project_Phase4_RecommendationSystems_Group5/assets/134859044/cc729be4-272c-4bda-a885-d617ddf063b4)
 
